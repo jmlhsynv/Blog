@@ -1,0 +1,1 @@
+<?php include 'option/function.php'; logout();?>
